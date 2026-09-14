@@ -1,6 +1,6 @@
 <!-- Header section with a banner or typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF6E31&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Kenil+Patel+👋;Full+Stack+Developer+%7C+MERN;GenAI+Enthusiast;Chai+aur+Code+Fan+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=30&pause=1000&color=FF6E31&center=true&vCenter=true&width=800&lines=Hi%20there!%20I'm%20Kenil%20Patel%20%F0%9F%91%8B;Full%20Stack%20Developer%20%7C%20MERN;GenAI%20Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -72,7 +72,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patelkenil26&show_icons=true&theme=vue-dark&title_color=FF6E31&icon_color=FF6E31&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Kenil's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=patelkenil26&show_icons=true&title_color=FF6E31&icon_color=FF6E31&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Kenil's GitHub Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelkenil26&theme=dark&fire=FF6E31&ring=FF6E31&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6E31&sideLabels=ffffff&dates=ffffff&background=0d1117&hide_border=true" alt="Kenil's GitHub Streak" />
@@ -81,7 +81,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patelkenil26&show_icons=true&locale=en&layout=compact&theme=vue-dark&title_color=FF6E31&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=patelkenil26&show_icons=true&locale=en&layout=compact&title_color=FF6E31&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
